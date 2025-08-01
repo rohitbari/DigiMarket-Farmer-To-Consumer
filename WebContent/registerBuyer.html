@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="ISO-8859-1">
+  <title>Register Buyer</title>
+
+  <!-- Bootstrap 5 CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #f1f8e9;
+      padding: 30px;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #2e7d32;
+    }
+
+    .form-control {
+      margin-bottom: 15px;
+    }
+
+    .btn-primary {
+      background-color: #388e3c;
+      border-color: #388e3c;
+      width: 100%;
+    }
+
+    .btn-primary:hover {
+      background-color: #2e7d32;
+    }
+
+    .link {
+      display: block;
+      text-align: center;
+      margin-top: 15px;
+      color: #0277bd;
+      text-decoration: none;
+    }
+
+    .link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2>Register Buyer</h2>
+
+    <form action="RegisterBuyer" method="post">
+      <label for="b_name">Enter Name:</label>
+      <input type="text" id="b_name" name="b_name" class="form-control" placeholder="Enter Name here">
+
+      <label for="b_contact">Enter Contact Number:</label>
+      <input type="number" id="b_contact" name="b_contact" class="form-control" placeholder="Enter Contact Number here">
+
+      <label for="b_address">Enter Address:</label>
+      <input type="text" id="b_address" name="b_address" class="form-control" placeholder="Enter Address here">
+
+      <label for="b_email">Enter Email:</label>
+      <input type="email" id="b_email" name="b_email" class="form-control" placeholder="Enter Email here" required>
+
+      <label for="b_password">Enter Password:</label>
+      <input type="password" id="b_password" name="b_password" class="form-control" placeholder="Enter Password here" required>
+
+      <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+
+    <a href="buyerLogin.html" class="link">Login here...</a>
+  </div>
+
+  <!-- Bootstrap JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>Register Buyer</h2>
+	
+	<form action="RegisterBuyer" method="post">
+		<label for="b_name">Enter Name:</label>
+	    <input type="text" id="b_name" name="b_name" placeholder="Enter Name here"></br>
+	    
+	    <label for="b_contact">Enter Contact Number:</label>
+	    <input type="number" id="b_contact" name="b_contact" placeholder="Enter Contact Number here"></br>
+	    
+	    <label for="b_address">Enter Address:</label>
+	    <input type="text" id="b_address" name="b_address" placeholder="Enter Address here"></br>
+	    
+		<label for="b_email">Enter Email:</label>
+	    <input type="email" id="b_email" name="b_email" placeholder="Enter Email here" required></br>
+	
+		<label for="b_password">Enter Password:</label>
+		<input type="password" id="b_password" name="b_password" placeholder="Enter Password here" required></br>
+	
+	    <button type="submit">Register</button></br>
+	        
+	    <a href="buyerLogin.html">Login here...</a>
+	</form>
+</body>
+</html>
+
+-->
