@@ -80,33 +80,6 @@ DigiMarket/
    * Add project to Tomcat server
    * Start server and access: `http://localhost:8080/DigiMarket/`
 
----
-
-## 📸 Screenshots 
-
-```
-![Welcome Page](screenshots/index.png)
-![Admin Dashboard](screenshots/admin-dashboard.png)
-![Add Farmer By Admin](screenshots/add_farmer_by_admin.png)
-![Add Buyer By Admin](screenshots/add_buyer_by_admin.png)
-![View Farmers By Admin](screenshots/view_farmers_by_admin.png)
-![View Buyers By Admin](screenshots/view_buyers_by_admin.png)
-![View Products By Admin](screenshots/view_products_by_admin.png)
-![Register Farmer](screenshots/register_farmer.png)
-![Farmer Dashboard](screenshots/farmer_dashboard.png)
-![Add Products By Farmer](screenshots/add_products_by_farmer.png)
-![View Products By Farmer](screenshots/view_myproducts.png)
-![Update Product Details](screenshots/update_products_details.png)
-![View Orders](screenshots/view_orders.png)
-![Confirm Orders](screenshots/confirm_orders.png)
-![Decline Orders](screenshots/decline_orders.png)
-![Change Password](screenshots/change_password.png)
-![Buyer Dashboard](screenshots/buyer_dashboard.png)
-![Browse Products](screenshots/browse_products.png)
-![Place Product Order](screenshots/place_product_order.png)
-![View MyOrders](screenshots/myorders_buyer.png)
-![Pending Orders](screenshots/pending_orders.png)
-```
 
 ---
 
