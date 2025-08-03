@@ -99,7 +99,7 @@ Creates tables:
 
 **Rohit Bari**
 Java Developer | Full-Stack Web Development Enthusiast
-[GitHub](https://github.com/rohitbari) • [LinkedIn](https://www.linkedin.com/in/rohit-bari-7628b6257/)
+[GitHub]([https://github.com/rohitbari]) • [LinkedIn]([https://www.linkedin.com/in/rohit-bari-7628b6257/])
 
 ```
 
