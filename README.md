@@ -88,10 +88,10 @@ Included SQL script: `marketDB.sql`
 
 Creates tables:
 
-* `buyers` (id, name, contact, address, email, password)
-* `farmers` (id, name, location, contact, email, password)
-* `products` (id, name, price, quantity, farmer_id, post_date)
-* `orders` (id, product_id, buyer_id, quantity, order_date, status)
+* `buyers` (id (p.k), name, contact, address, email, password)
+* `farmers` (id (p.k), name, location, contact, email, password)
+* `products` (id (p.k), name, price, quantity, farmer_id (f.k), post_date)
+* `orders` (id (p.k), product_id (f.k), buyer_id (f.k), quantity, order_date, status)
 
 ---
 
