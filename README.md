@@ -82,33 +82,6 @@ DigiMarket/
 
 ---
 
-## 📸 Screenshots 
-
-```
-![Welcome Page](Screenshots/index.png)
-![Admin Dashboard](Screenshots/admin-dashboard.png)
-![Add Farmer By Admin](Screenshots/add_farmer_by_admin.png)
-![Add Buyer By Admin](Screenshots/add_buyer_by_admin.png)
-![View Farmers By Admin](Screenshots/view_farmers_by_admin.png)
-![View Buyers By Admin](Screenshots/view_buyers_by_admin.png)
-![View Products By Admin](Screenshots/view_products_by_admin.png)
-![Register Farmer](Screenshots/register_farmer.png)
-![Farmer Dashboard](Screenshots/farmer_dashboard.png)
-![Add Products By Farmer](Screenshots/add_products_by_farmer.png)
-![View Products By Farmer](Screenshots/view_myproducts.png)
-![Update Product Details](Screenshots/update_products_details.png)
-![View Orders](Screenshots/view_orders.png)
-![Confirm Orders](Screenshots/confirm_orders.png)
-![Decline Orders](Screenshots/decline_orders.png)
-![Change Password](Screenshots/change_password.png)
-![Buyer Dashboard](Screenshots/buyer_dashboard.png)
-![Browse Products](Screenshots/browse_products.png)
-![Place Product Order](Screenshots/place_product_order.png)
-![View MyOrders](Screenshots/myorders_buyer.png)
-![Pending Orders](Screenshots/pending_orders.png)
-```
----
-
 ## 📂 SQL File (Database Schema)
 
 Included SQL script: `marketDB.sql`
